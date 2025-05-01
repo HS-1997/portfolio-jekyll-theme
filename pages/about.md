@@ -6,4 +6,4 @@ permalink: /about
 
 # Hassan's Portfolio
 
-Isn't it great?
+Isn't it great.
